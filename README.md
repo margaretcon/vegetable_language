@@ -9,8 +9,9 @@ not sure what I am doing
 #Hethods
 The subjects: 
 - naive student looking for credits
--naive pumpkin not knowning
+- naive pumpkin not knowning
 
+Subjects were presented with coherent and incoherent sentences
 #Results
 TODO write the structure of the paper
 
