@@ -11,6 +11,7 @@ The subjects:
 - naive student looking for credits
 -naive pumpkin not knowning
 
+Electrodes were placed in Cz and Pz. 
 #Results
 TODO write the structure of the paper
 
